@@ -100,5 +100,3 @@ streamlit run app.py
 
 ## Deployment
 
-Dashboard dapat dijalankan menggunakan Streamlit Cloud yang terhubung langsung dengan repository GitHub.
-
